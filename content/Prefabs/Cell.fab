@@ -1,0 +1,168 @@
+[
+	[
+		"Prefab",
+		-1761958656,
+		0,
+		"{94e53999-5fbb-4274-8d66-760ff77c3fe5}",
+		{
+		},
+		[
+			[
+				-1761958656,
+				"1destroyed()",
+				2135247037,
+				"2onReferenceDestroyed()"
+			]
+		],
+		{
+			"Actor": 1193983187
+		}
+	],
+	[
+		"Actor",
+		1193983187,
+		-1761958656,
+		"",
+		{
+			"enabled": true,
+			"name": "",
+			"static": false
+		},
+		[
+		],
+		{
+			"Flags": 3
+		}
+	],
+	[
+		"Transform",
+		-984110806,
+		1193983187,
+		"Transform",
+		{
+			"enabled": true,
+			"position": {
+				"Vector3": [0.000000,0.000000,0.000000]
+			},
+			"quaternion": {
+				"Quaternion": [0.000000,0.000000,0.000000,1.000000]
+			},
+			"rotation": {
+				"Vector3": [0.000000,0.000000,0.000000]
+			},
+			"scale": {
+				"Vector3": [1.000000,1.000000,1.000000]
+			}
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"SpriteRender",
+		-37511861,
+		1193983187,
+		"SpriteRender",
+		{
+			"color": {
+				"Vector4": [1.000000,1.000000,1.000000,1.000000]
+			},
+			"drawMode": 0,
+			"enabled": true,
+			"item": "",
+			"layer": 0,
+			"size": {
+				"Vector2": [1.000000,1.000000]
+			}
+		},
+		[
+		],
+		{
+			"material": "{00000000-0401-0000-0000-000000000000}",
+			"sprite": "{8fe622d0-e7c3-4da5-ad12-536598a2efde}"
+		}
+	],
+	[
+		"Actor",
+		-452310285,
+		1193983187,
+		"Label",
+		{
+			"enabled": true,
+			"name": "Label",
+			"static": false
+		},
+		[
+		],
+		{
+			"Flags": 3
+		}
+	],
+	[
+		"Transform",
+		-1133948879,
+		-452310285,
+		"Transform",
+		{
+			"enabled": true,
+			"position": {
+				"Vector3": [-0.319600,-0.362200,0.000000]
+			},
+			"quaternion": {
+				"Quaternion": [0.000000,0.000000,0.000000,1.000000]
+			},
+			"rotation": {
+				"Vector3": [0.000000,0.000000,0.000000]
+			},
+			"scale": {
+				"Vector3": [0.350000,0.350000,1.000000]
+			}
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"TextRender",
+		2065461252,
+		-452310285,
+		"TextRender",
+		{
+			"alignment": 34,
+			"color": {
+				"Vector4": [0.466667,0.431373,0.396078,1.000000]
+			},
+			"enabled": true,
+			"fontSize": 1,
+			"kerning": true,
+			"layer": 1,
+			"size": {
+				"Vector2": [2.000000,2.000000]
+			},
+			"text": "2048",
+			"wordWrap": true
+		},
+		[
+		],
+		{
+			"font": "{00000000-0601-0000-0000-000000000000}",
+			"material": "{3dc2e738-995a-46c9-be8b-f1e91c0bf49b}"
+		}
+	],
+	[
+		"Element",
+		1157259794,
+		1193983187,
+		"AngelBehaviour",
+		{
+			"enabled": true,
+			"script": "Element"
+		},
+		[
+		],
+		{
+		}
+	]
+]

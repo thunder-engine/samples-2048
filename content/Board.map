@@ -1,0 +1,215 @@
+[
+	[
+		"Map",
+		974821163,
+		0,
+		"",
+		{
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"Scene",
+		-1131072845,
+		974821163,
+		"Board",
+		{
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"Actor",
+		-1515142275,
+		-1131072845,
+		"AngelBehaviour",
+		{
+			"enabled": true,
+			"name": "AngelBehaviour",
+			"static": false
+		},
+		[
+		],
+		{
+			"Flags": 3
+		}
+	],
+	[
+		"Transform",
+		-1051162104,
+		-1515142275,
+		"Transform",
+		{
+			"enabled": true,
+			"position": {
+				"Vector3": [0.000000,0.000000,0.000000]
+			},
+			"quaternion": {
+				"Quaternion": [0.000000,0.000000,0.000000,1.000000]
+			},
+			"rotation": {
+				"Vector3": [0.000000,0.000000,0.000000]
+			},
+			"scale": {
+				"Vector3": [1.000000,1.000000,1.000000]
+			}
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"Board",
+		2135247037,
+		-1515142275,
+		"AngelBehaviour",
+		{
+			"Size": 4,
+			"enabled": true,
+			"script": "Board"
+		},
+		[
+		],
+		{
+			"ElementPrefab": "{94e53999-5fbb-4274-8d66-760ff77c3fe5}"
+		}
+	],
+	[
+		"Actor",
+		-1724516578,
+		-1515142275,
+		"Score",
+		{
+			"enabled": true,
+			"name": "Score",
+			"static": false
+		},
+		[
+		],
+		{
+			"Flags": 3
+		}
+	],
+	[
+		"Transform",
+		1917463309,
+		-1724516578,
+		"Transform",
+		{
+			"enabled": true,
+			"position": {
+				"Vector3": [-0.500000,4.500000,0.000000]
+			},
+			"quaternion": {
+				"Quaternion": [0.000000,0.000000,0.000000,1.000000]
+			},
+			"rotation": {
+				"Vector3": [0.000000,0.000000,0.000000]
+			},
+			"scale": {
+				"Vector3": [0.500000,0.500000,1.000000]
+			}
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"TextRender",
+		303050794,
+		-1724516578,
+		"TextRender",
+		{
+			"alignment": 17,
+			"color": {
+				"Vector4": [0.976471,0.964706,0.949020,1.000000]
+			},
+			"enabled": true,
+			"fontSize": 1,
+			"kerning": true,
+			"layer": 0,
+			"size": {
+				"Vector2": [10.000000,1.000000]
+			},
+			"text": "Score: 0",
+			"wordWrap": true
+		},
+		[
+		],
+		{
+			"font": "{00000000-0601-0000-0000-000000000000}",
+			"material": "{3dc2e738-995a-46c9-be8b-f1e91c0bf49b}"
+		}
+	],
+	[
+		"Actor",
+		-730550110,
+		-1131072845,
+		"Camera",
+		{
+			"enabled": true,
+			"name": "Camera",
+			"static": false
+		},
+		[
+		],
+		{
+			"Flags": 3
+		}
+	],
+	[
+		"Transform",
+		-434504745,
+		-730550110,
+		"Transform",
+		{
+			"enabled": true,
+			"position": {
+				"Vector3": [1.500000,2.000000,5.000000]
+			},
+			"quaternion": {
+				"Quaternion": [0.000000,0.000000,0.000000,1.000000]
+			},
+			"rotation": {
+				"Vector3": [0.000000,0.000000,0.000000]
+			},
+			"scale": {
+				"Vector3": [1.000000,1.000000,1.000000]
+			}
+		},
+		[
+		],
+		{
+		}
+	],
+	[
+		"Camera",
+		-1160358483,
+		-730550110,
+		"Camera",
+		{
+			"backgroundColor": {
+				"Vector4": [0.250980,0.250980,0.250980,1.000000]
+			},
+			"enabled": true,
+			"far": 20.000000,
+			"focalDistance": 1.000000,
+			"fov": 45.000000,
+			"near": 0.100000,
+			"orthographic": true,
+			"ratio": 2.029610,
+			"size": 8.000000
+		},
+		[
+		],
+		{
+		}
+	]
+]

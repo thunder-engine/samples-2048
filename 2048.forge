@@ -1,0 +1,12 @@
+{
+	"companyName": "Evgeniy Prikazchikov",
+	"firstMap": "{3d00a85b-4333-43bc-9ab7-54efd51f1b04}",
+	"modules": [
+	],
+	"platforms": [
+	],
+	"projectId": "{a9f4406b-fc88-4905-9cad-e87a8c6ec04d}",
+	"projectName": "2048",
+	"projectSdk": "2025.3",
+	"projectVersion": "1.0"
+}
